@@ -1,6 +1,7 @@
 # Lisk Python Monitoring script for PRTG 
 Python Monitoring script for PRTG
 
+
 **PRTG-ForgingState.py** Will give you information about your delegate state
 
 
@@ -20,3 +21,11 @@ you will need to edit and fit to your setup
 **PRTG-BlockChainTimeStamp** :
 
 `{ "port" : "8000" , "tz" : "America/New_York" }`
+
+
+**Install the python script under** 
+
+`C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python`
+
+they will be available from drop down box when you create a new sensor 
+choose sensor type **Custom Sensor** then **Python Script Advance Sensor**
