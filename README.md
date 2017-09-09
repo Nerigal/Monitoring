@@ -1,7 +1,7 @@
 # Lisk Python Monitoring script for PRTG 
 Python Monitoring script for PRTG
 
-PRTG-ForgingStatus :
+PRTG-ForgingState :
 
 JSON arg Example to pass to you code using sensor "Additional Parameters" :
 
